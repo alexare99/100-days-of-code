@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 1. [Cat picture app] https://www.freecodecamp.org/learn/full-stack-developer/workshop-cat-photo-app/step-28
+
+### Day 2: June 3th 2025, Tuesday
+
+**Today's Progress**: I've programmed a receipe page for red lentils with the tools I learned yesterday. 
+
+**Thoughts** I definitely understood things easier. I almost didn't do it because it was too late but I am happy I managed to continue my streak!
+
+**Link(s) to work**
+1. [Cat picture app]
