@@ -15,5 +15,3 @@
 
 **Thoughts** I definitely understood things easier. I almost didn't do it because it was too late but I am happy I managed to continue my streak!
 
-**Link(s) to work**
-1. [Cat picture app]
