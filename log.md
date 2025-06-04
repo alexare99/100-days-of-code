@@ -15,3 +15,9 @@
 
 **Thoughts** I definitely understood things easier. I almost didn't do it because it was too late but I am happy I managed to continue my streak!
 
+### Day 3: June 4th 2025, Wednesday
+
+**Today's Progress**: Today's progess was slow. It took me longer than expected to complete building the Travel Agency html lab exercise
+
+**Thoughts** Maybe I need some more foundation and i should look into CS50 tomorrow.
+
